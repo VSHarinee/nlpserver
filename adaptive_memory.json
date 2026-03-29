@@ -1,0 +1,9 @@
+{
+    "set a reminder to buy dress at reliance": {
+        "intent": "location_based_reminder",
+        "action": "buy dress",
+        "location": "Reliance",
+        "person": "self",
+        "confidence": 1.0
+    }
+}
