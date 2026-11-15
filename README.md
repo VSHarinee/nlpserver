@@ -1,6 +1,4 @@
-I can certainly help you write a clean, professional `README.md` for your `nlpserver` repository!
 
-Since I can see you are setting up an NLP server repository (`VSHarinee/nlpserver` [[https://github.com/VSHarinee/nlpserver](https://github.com/VSHarinee/nlpserver)]), here is a complete template tailored for an NLP project. You can copy this directly and paste it into the editor on your screen.
 
 ---
 
